@@ -44,7 +44,7 @@ export default function App() {
       </head>
       <body>
         <h1>Hello, {name}</h1>
-        <p>This is a custom storefront powered by Hydrogen</p>
+        <p>This is my custom storefront and will be hosted on Oxygen</p>
         <Outlet />
         <ScrollRestoration />
         <Scripts />
